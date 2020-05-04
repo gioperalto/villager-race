@@ -88,7 +88,7 @@ def main(argv):
     if opts == [] and args == []:
         print('No background or target specified.')
         print('Usage [short]: python3 race.py -t bells -bg grass')
-        print('Usage [long]: python3 race.py --target=bells --background=grass')
+        print('Usage [long]: python3 race.py --target=nmt --background=grass')
 
     return target, background
 
