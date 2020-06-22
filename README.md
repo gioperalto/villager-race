@@ -13,9 +13,9 @@ This program runs a race with all of the players you enter into the players.txt 
     - `pip install getopt`                          (for command line arguments)
     - `pip install os`                              (for reading villagers/backgrounds in dynamically)
 3. Usage: 
-    - `python battlefield.py`                       (creates program with default target and background)
-    - `python battlefield.py -t turnip`             (creates program with turnip target)
-    - `python battlefield.py --target=bells`        (creates program with Bells image)
+    - `python race.py`                       (creates program with default target and background)
+    - `python race.py -t turnip`             (creates program with turnip target)
+    - `python race.py --target=bells`        (creates program with Bells image)
 
 ## To change the players:
 - There is a `players.txt` file where you can change out the names
